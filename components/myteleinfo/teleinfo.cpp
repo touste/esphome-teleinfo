@@ -4,7 +4,7 @@
 namespace esphome {
 namespace teleinfo {
 
-static const char *const TAG = "teleinfo";
+static const char *const TAG = "myteleinfo";
 
 /* Helpers */
 static int get_field(char *dest, char *buf_start, char *buf_end, int sep, int max_len) {
