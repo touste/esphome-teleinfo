@@ -1,5 +1,5 @@
 #pragma once
-#include "esphome/components/teleinfo/teleinfo.h"
+#include "esphome/components/myteleinfo/teleinfo.h"
 #include "esphome/components/sensor/sensor.h"
 
 namespace esphome {

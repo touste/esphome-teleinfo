@@ -6,7 +6,7 @@ from esphome.const import CONF_ID
 CODEOWNERS = ["@0hax"]
 MULTI_CONF = True
 
-teleinfo_ns = cg.esphome_ns.namespace("teleinfo")
+teleinfo_ns = cg.esphome_ns.namespace("myteleinfo")
 TeleInfo = teleinfo_ns.class_("TeleInfo", cg.PollingComponent, uart.UARTDevice)
 
 CONF_TELEINFO_ID = "teleinfo_id"
