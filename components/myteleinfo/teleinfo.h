@@ -6,7 +6,7 @@
 #include <vector>
 
 namespace esphome {
-namespace teleinfo {
+namespace myteleinfo {
 /*
  * 198 bytes should be enough to contain a full session in historical mode with
  * three phases. But go with 1024 just to be sure.

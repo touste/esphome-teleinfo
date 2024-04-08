@@ -2,7 +2,7 @@
 #include "esphome/core/log.h"
 
 namespace esphome {
-namespace teleinfo {
+namespace myteleinfo {
 
 static const char *const TAG = "myteleinfo";
 
