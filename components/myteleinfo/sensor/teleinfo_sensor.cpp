@@ -1,7 +1,7 @@
 #include "esphome/core/log.h"
 #include "teleinfo_sensor.h"
 namespace esphome {
-namespace teleinfo {
+namespace myteleinfo {
 
 static const char *const TAG = "teleinfo_sensor";
 TeleInfoSensor::TeleInfoSensor(const char *tag) { this->tag = std::string(tag); }

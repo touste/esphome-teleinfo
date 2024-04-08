@@ -3,7 +3,7 @@
 #include "esphome/components/sensor/sensor.h"
 
 namespace esphome {
-namespace teleinfo {
+namespace myteleinfo {
 
 class TeleInfoSensor : public TeleInfoListener, public sensor::Sensor, public Component {
  public:
