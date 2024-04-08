@@ -13,7 +13,7 @@ namespace myteleinfo {
  */
 static const uint8_t MAX_TAG_SIZE = 64;
 static const uint16_t MAX_VAL_SIZE = 256;
-static const uint16_t MAX_BUF_SIZE = 4096;
+static const uint16_t MAX_BUF_SIZE = 2048;
 static const uint16_t MAX_TIMESTAMP_SIZE = 14;
 
 class TeleInfoListener {
